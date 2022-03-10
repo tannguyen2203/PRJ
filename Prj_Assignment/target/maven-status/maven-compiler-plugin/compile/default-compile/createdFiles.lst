@@ -1,0 +1,8 @@
+com\fptuni\prj301\demo\controller\ProductController.class
+com\fptuni\prj301\demo\dbmanager\ProductManager.class
+com\fptuni\prj301\demo\model\User.class
+com\fptuni\prj301\demo\model\UserSession.class
+com\fptuni\prj301\demo\dbmanager\AccessManager.class
+com\fptuni\prj301\demo\controller\AccessController.class
+com\fptuni\prj301\demo\utils\DBUtils.class
+com\fptuni\prj301\demo\model\Product.class
